@@ -36,3 +36,5 @@ I am an engineering student interested in programming, web development, and lear
 ## Contact
 - **GitHub:** https://github.com/mayank417
 - **Portfolio:** https://mayank417.github.io
+
+## Resume link:https://drive.google.com/file/d/18_-7W06-7jF36ZDtY3eyKBYHORQ_D0Qd/view?usp=drive_link
