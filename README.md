@@ -14,7 +14,7 @@ I am an engineering student interested in programming, web development, and lear
 
 ## Academic Details
 - **Degree:** Engineering (Undergraduate)
-- **CGPA:** 7.98 *(Improving)*
+- **CGPA:** 8.08 *(Improving)*
 
 ---
 
